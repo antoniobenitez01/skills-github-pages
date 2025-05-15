@@ -1,4 +1,4 @@
 ---
-title: Welcome to my blog
+title: This is my INDEX file
 ---
 
